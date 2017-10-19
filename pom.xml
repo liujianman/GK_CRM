@@ -12,8 +12,8 @@
         <module>crm-common</module>
         <module>crm-shiro</module>
         <module>crm-base</module>
-        <module>crm-web</module>
         <module>crm-orm</module>
+        <module>crm-web</module>
     </modules>
 
 

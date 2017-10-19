@@ -6,7 +6,15 @@
 
     <groupId>com.ipeak</groupId>
     <artifactId>GK_CRM</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>crm-common</module>
+        <module>crm-shiro</module>
+        <module>crm-base</module>
+        <module>crm-web</module>
+        <module>crm-orm</module>
+    </modules>
 
 
 </project>
